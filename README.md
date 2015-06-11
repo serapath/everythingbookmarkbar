@@ -2,6 +2,8 @@
 
 One Bookmark Bar to rule them all... or something...
 
+[See and download](http://serapath.github.io/everythingbookmarkbar)
+
 [![Join the chat at https://gitter.im/serapath/everythingbookmarkbar](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/serapath/everythingbookmarkbar?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Or brainstorm with us on our waffle board  
